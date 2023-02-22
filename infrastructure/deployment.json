@@ -200,6 +200,9 @@
       "kind": "StorageV2",
       "sku": {
         "name": "Standard_GRS"
+      },
+      "properties": {
+        "minimumTlsVersion": "TLS1_2"
       }
     },
     {
