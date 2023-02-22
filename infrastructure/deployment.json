@@ -202,7 +202,9 @@
         "name": "Standard_GRS"
       },
       "properties": {
-        "minimumTlsVersion": "TLS1_2"
+        "minimumTlsVersion": "TLS1_2",
+        "allowBlobPublicAccess": "false",
+        "supportsHttpsTrafficOnly": "true"
       }
     },
     {
